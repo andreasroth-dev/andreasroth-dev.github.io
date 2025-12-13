@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Hello, I’m Your Name 👋
+# Andreas Roth 👋
 
 Welcome to my Jekyll-powered GitHub Pages site.
 
