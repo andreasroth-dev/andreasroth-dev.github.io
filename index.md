@@ -1,87 +1,40 @@
 # Andreas Roth
 
-> I'm a programmer who started out in game development, continued onto penetration testing and software development.
+> Programmerare som började inom spelutveckling, fortsatte med penetrationstestning och nu arbetar med mjukvaruutveckling.
 
 ---
 
 ## About Me
 
-![Profile Photo](path/to/profile.jpg)
+Utvecklare baserad i Malmö med erfarenhet av både frontend- och backendutveckling.  
 
-I'm a software developer based in Malmö. I enjoy working on **key interests**, especially where **skill A** meets **skill B**. This page is a living overview of who I am and the projects I've been building.
-
-* 🔧 **Skills:** Skill 1, Skill 2, Skill 3
-* 🎯 **Focus:** What you're currently focused on
-* 🌱 **Learning:** What you're learning right now
-* 📫 **Contact:** [email@example.com](mailto:email@example.com) · [LinkedIn](#) · [GitHub](#)
+**Contact:** [Mail](mailto:bjorn.ake.andreas.roth@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andreas-roth-61451396/)
 
 ---
 
-## Projects
+## Portfolio
 
-Scroll down to explore selected projects. Each section includes context, your role, and links to learn more.
+### DRT Solutions - Drip
+Arbetat med huvudsystemet Drip, vilket är en applikation för anropsstyrd trafik och används av flertalet kunder i både Sverige och Norge.
+Deltagit i vidareutveckling och förbättring av systemets funktionalitet, inklusive användargränssnitt och bakomliggande tjänster.  
+Frontend är byggd i **React** med **TypeScript**, medan backend-tjänster är implementerade **Golang**.
 
-### 🚀 Project One — *Short Tagline*
+### ADDQ / QESTIT - Konsult
+Arbetade som konsult hos **Stretch Care** och deras applikation **Mina Planer** under 6 månader som är ett system för samordnad vårdplanering och används av region skåne.
+Tekniker som användes var Vue för frontend och C# för backend.
+Utöver utvecklingstimmarna fördjupade jag mig i penetrationstestning och utförde till slut flertalet säkerhetsrelaterade uppdrag för företag under sekretess.
 
-**What it is:** 1–2 sentences describing the project at a high level.
+### Navblue - N-Ops & Crew
+**N-Ops & Crew** är ett verksamhetskritiskt system för flygoperationer och besättningshantering, utvecklat för att stödja planering, schemaläggning och operativ uppföljning inom flygindustrin.
+Jag deltog i både nyutveckling och bugfixande, med fokus på att förbättra funktionalitet, stabilitet och användarupplevelse i ett komplext system.
+Frontend utvecklades med **HTML, CSS och JavaScript**, medan backend var byggd i **C#**.
 
-**Why it matters:** The problem it solves or the opportunity it explores.
-
-**Your role:** What you personally worked on.
-
-**Tech / Tools:** Tool A · Tool B · Tool C
-
-* 🔗 [Live Demo](#)
-* 📂 [Source Code](#)
-* 📝 [Case Study / Write-up](#)
-
----
-
-### 🧠 Project Two — *Short Tagline*
-
-**What it is:** Brief description.
-
-**Why it matters:** Impact or insight gained.
-
-**Your role:** Responsibilities and contributions.
-
-**Tech / Tools:** Tool A · Tool B · Tool C
-
-* 🔗 [Live Demo](#)
-* 📂 [Source Code](#)
+### King
+Arbetade som utvecklare med flera live-service-spel på King, inklusive **Candy Crush Saga**, **Pet Rescue Saga** och **Bubble Witch 3 Saga**, byggda på Kings egenutvecklade motor med utveckling i **C++**.  
+Arbetade med nya features, bugfixar och releaseprocesser i storskaliga produktionsmiljöer.
+Var del av core teamet på pet rescue saga med fokus på prestanda och stabilitet i live-drift.  
+Deltog även i utveckling och release av **Pet Rescue Puzzle Saga**, byggt i **Defold** med **Lua**.
 
 ---
 
-### 🎨 Project Three — *Short Tagline*
-
-**What it is:** Brief description.
-
-**Why it matters:** Who it’s for and why it’s useful.
-
-**Your role:** Design, development, research, etc.
-
-**Tech / Tools:** Tool A · Tool B · Tool C
-
-* 🔗 [More Details](#)
-
----
-
-## Timeline (Optional)
-
-| Year | Project / Role | Notes         |
-| ---- | -------------- | ------------- |
-| 2025 | Project One    | Key outcome   |
-| 2024 | Project Two    | Key learning  |
-| 2023 | Project Three  | Key milestone |
-
----
-
-## What’s Next
-
-A short section about where you're heading next, what kinds of problems you want to work on, or what opportunities you're open to.
-
----
-
-## Footer
-
-© Your Name · Last updated: YYYY-MM-DD
+© Andreas Roth · Last updated: 2025-12-14
