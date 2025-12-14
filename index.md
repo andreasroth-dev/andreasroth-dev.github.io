@@ -1,6 +1,6 @@
 # Andreas Roth
 
-> A short, punchy one-liner about who you are and what you care about.
+> I'm a programmer who started out in game development, continued onto penetration testing and software development.
 
 ---
 
@@ -8,7 +8,7 @@
 
 ![Profile Photo](path/to/profile.jpg)
 
-I'm a **role / title** based in **location**. I enjoy working on **key interests**, especially where **skill A** meets **skill B**. This page is a living overview of who I am and the projects I've been building.
+I'm a software developer based in Malmö. I enjoy working on **key interests**, especially where **skill A** meets **skill B**. This page is a living overview of who I am and the projects I've been building.
 
 * 🔧 **Skills:** Skill 1, Skill 2, Skill 3
 * 🎯 **Focus:** What you're currently focused on
