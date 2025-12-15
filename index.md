@@ -9,9 +9,10 @@ title: ""
 
 ---
 
-## About Me
+## Om
 
-Utvecklare baserad i Malmö med erfarenhet av både frontend- och backendutveckling.  
+Utvecklare baserad i Malmö med erfarenhet av både frontend- och backendutveckling samt penetrations testning.
+
 
 **Contact:** [Mail](mailto:bjorn.ake.andreas.roth@gmail.com) · [LinkedIn](https://www.linkedin.com/in/andreas-roth-61451396/)
 
