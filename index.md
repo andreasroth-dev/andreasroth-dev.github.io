@@ -1,5 +1,3 @@
-> Mjukvaruutvecklare med bakgrund inom spelutveckling och säkerhet.
-
 ## About Me
 
 Utvecklare baserad i Malmö med erfarenhet av både frontend- och backendutveckling.  
