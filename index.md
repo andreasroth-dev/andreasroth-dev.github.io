@@ -1,7 +1,3 @@
-
-# Andreas Roth
-
-
 > Mjukvaruutvecklare med bakgrund inom spelutveckling och säkerhet.
 
 ## About Me
