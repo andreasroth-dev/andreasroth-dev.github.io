@@ -1,8 +1,14 @@
-## Andreas Roth
+---
+layout: default
+title: ""
+---
+
+# Andreas Roth
 
 > Utvecklare med bakgrund inom penetrationstestning och spelutveckling.
 
 ---
+
 ## About Me
 
 Utvecklare baserad i Malmö med erfarenhet av både frontend- och backendutveckling.  
