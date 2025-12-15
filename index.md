@@ -1,5 +1,3 @@
-# Andreas Roth
-
 > Programmerare som började inom spelutveckling, fortsatte med penetrationstestning och nu arbetar med mjukvaruutveckling.
 
 ---
