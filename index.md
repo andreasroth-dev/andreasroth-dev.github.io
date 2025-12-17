@@ -21,9 +21,7 @@ Utvecklare baserad i Malmö med erfarenhet av både frontend- och backendutveckl
 ## Portfolio
 
 ### DRT Solutions - Drip
-Arbetat med huvudsystemet Drip, vilket är en applikation för anropsstyrd trafik och används av flertalet kunder i både Sverige och Norge.
-
-Deltagit i vidareutveckling och förbättring av systemets funktionalitet, inklusive användargränssnitt och bakomliggande tjänster. 
+Arbetat med huvudsystemet Drip, vilket är en applikation för anropsstyrd trafik och används av flertalet kunder i både Sverige och Norge där jag har deltagit i vidareutveckling och förbättring av systemets funktionalitet, inklusive frontend och backend. 
 
 Frontend är byggd i **React** med **TypeScript**, medan backend-tjänster är implementerade **Golang**.
 
